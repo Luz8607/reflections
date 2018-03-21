@@ -7,7 +7,10 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    To be honest, i am not sure about that. Okay, GitHub enables
+	multiple persons to work on one project, but in times when i 
+	work alone, automatic pushing would be nice, wouldn't it? 
+	One reason might be, that you eventually want to make changes to files BEFORE you push them at some state, but for that i do not have enough experience with programming.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
